@@ -27,21 +27,21 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [CI/CD Pipeline](https://github.com/yourusername/ci-cd-pipeline) | A GitHub Actions pipeline for automated deployment | GitHub Actions, Docker |
-| [AWS IaC](https://github.com/yourusername/aws-infrastructure) | Deploying EC2 and S3 using Terraform | AWS, Terraform |
-| [Monitoring Stack](https://github.com/yourusername/monitoring-stack) | Full observability setup with Prometheus and Grafana | Linux, Prometheus, Grafana |
-| [Docker Compose Lab](https://github.com/yourusername/docker-compose-lab) | Multi-service local environment | Docker, NGINX, PostgreSQL |
+| [CI/CD Pipeline](https://github.com/janasouzaj/ci-cd-pipeline) | A GitHub Actions pipeline for automated deployment | GitHub Actions, Docker |
+| [AWS IaC](https://github.com/janasouzaj/aws-infrastructure) | Deploying EC2 and S3 using Terraform | AWS, Terraform |
+| [Monitoring Stack](https://github.com/janasouzaj/monitoring-stack) | Full observability setup with Prometheus and Grafana | Linux, Prometheus, Grafana |
+| [Docker Compose Lab](https://github.com/janasouzaj/docker-compose-lab) | Multi-service local environment | Docker, NGINX, PostgreSQL |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=janasouzaj&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=janasouzaj&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasouzaj&layout=compact&theme=tokyonight" />
 </p>
 
 ---
