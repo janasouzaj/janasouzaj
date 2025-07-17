@@ -17,9 +17,9 @@
 
 ### 🔗 Connect with me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)(https://linkedin.com/in/janasouzaj)  
-![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)(https://medium.com/@janaynasouza)  
-![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)(mailto:janasouzaj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/janasouzaj)  
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@janaynasouza)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janasouzaj@gmail.com)
 
 ---
 
