@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Janayna Souza</h1>
+<h1 align="center">Hi 👋 I'm Janayna Souza</h1>
 <p align="center">
   🚀 DevOps Enthusiast | ☁️ Cloud & Automation Lover | 👩🏽‍💻 Woman in Tech
 </p>
